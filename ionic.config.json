@@ -1,0 +1,8 @@
+{
+  "name": "Cabelleros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b4ac525b"
+}
